@@ -10,6 +10,6 @@
 - 😄 Pronouns: ...
 -->
 
-### Hello :cat:
+### Hello
 
-⚡ Fun fact: Cats have no arms
+:cat: Fun fact: Cats have no arms
